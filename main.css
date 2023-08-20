@@ -6,7 +6,7 @@
 
 header{
     padding: 16px 0;
-    background-color:#310202;
+    background-color:#182c61 ;
     color: #ecf0f1;
 }
 
@@ -72,7 +72,7 @@ margin-bottom: 16px;
 }
 
 section{
-    color: #310202;
+    color: #182c61 ;
 }
 
 section p{
@@ -123,22 +123,22 @@ section h3{
 }
 
 form button{
-    background-color: #310202;
+    background-color: #182c61;
     color: #ecf0f1;
     border:none;
     cursor:pointer;
 }
 
 form button:hover{
-    background-color: #9e1414;
+    background-color: #5c7dd6;
 }
 
 input:focus, textarea{
-    outline: #310202;
+    outline: #182c61;
 }
 
 footer{
-    background-color:#310202 ;
+    background-color:#182c61;
     color: #ecf0f1;
     padding: 16px 0;
 }
@@ -149,6 +149,6 @@ footer{
 }
 
 .footer-content img{
-    max-width: 150px;
+    max-width: 100px;
     margin-right: 10px;
 }
